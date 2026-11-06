@@ -8,7 +8,7 @@
 
 | Tệp | Có? |
 |---|---|
-| `day01_spam_ml_dl_embedding_llm.ipynb` — Notebook đã chạy, còn output | Có |
+| `day01_lab.ipynb` — Notebook đã chạy, còn output | Có |
 | `lab1_report.json` — Tệp được sinh từ ô “Báo cáo cuối” | Có |
 | `hand_calc.jpg` — Ảnh tính tay có các bước | Có |
 
